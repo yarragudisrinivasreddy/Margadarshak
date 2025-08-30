@@ -7,8 +7,8 @@ app = Flask(__name__)
 # Initialize complete system
 orchestrator = CompleteCommerceOrchestrator(
     excel_file_path="synthetic_commerce_data.xlsx",
-    openai_api_key="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",
-    weather_api_key="c485c07fe2d89be6f9222b9878a2b782"
+    openai_api_key="xxxx",
+    weather_api_key="xxx"
 )
 
 @app.route("/")
