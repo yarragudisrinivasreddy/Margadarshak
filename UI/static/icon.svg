@@ -1,0 +1,7 @@
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Compass Circle -->
+  <circle cx="60" cy="60" r="50" stroke="#fff" stroke-width="6" fill="none"/>
+  
+  <!-- Arrow / Guide -->
+  <polygon points="60,15 80,70 60,55 40,70" fill="#FF7043"/>
+</svg>

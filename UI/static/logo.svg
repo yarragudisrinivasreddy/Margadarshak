@@ -1,0 +1,17 @@
+<svg width="400" height="120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Compass Circle -->
+  <circle cx="60" cy="60" r="45" stroke="#004682" stroke-width="6" fill="none"/>
+  
+  <!-- Arrow / Guide -->
+  <polygon points="60,20 75,65 60,55 45,65" fill="#008037"/>
+  
+  <!-- Text -->
+  <text x="130" y="70" font-family="Arial, sans-serif" font-size="32" fill="#004682" font-weight="bold">
+    Margadarshak AI
+  </text>
+  
+  <!-- Tagline -->
+  <text x="130" y="100" font-family="Arial, sans-serif" font-size="16" fill="#008037" font-style="italic">
+    Your Trusted Guide for Smarter Business Decisions
+  </text>
+</svg>
